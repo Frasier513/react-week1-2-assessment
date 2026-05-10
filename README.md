@@ -2,7 +2,7 @@
 
 ## 📚 Course
 Full Stack Software Development: Building Scalable Cloud Applications  
-Great Learning — May 2025 Cohort
+May 2025 Cohort
 
 ## 📝 About
 Introduction to React — components, props, state, JSX, and the React lifecycle. Builds foundational React skills through hands-on project work.
